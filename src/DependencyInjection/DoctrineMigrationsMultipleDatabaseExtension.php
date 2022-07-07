@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace LFaveur\Bundle\MigrationsMutlipleDatabase\DependencyInjection;
+namespace Lfafa\Bundle\MigrationsMutlipleDatabase\DependencyInjection;
 
 use Doctrine\Bundle\MigrationsBundle\DependencyInjection\DoctrineMigrationsExtension;
 use Doctrine\Migrations\Configuration\EntityManager\ExistingEntityManager;

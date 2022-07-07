@@ -1,8 +1,8 @@
 <?php
 
-namespace LFaveur\Bundle\MigrationsMutlipleDatabase\Command\Doctrine;
+namespace Lfafa\Bundle\MigrationsMutlipleDatabase\Command\Doctrine;
 
-use AvaiBookSports\Bundle\MigrationsMutlipleDatabase\Configuration\Configuration;
+use Lfafa\Bundle\MigrationsMutlipleDatabase\Configuration\Configuration;
 use Doctrine\Migrations\DependencyFactory;
 use RuntimeException;
 use Symfony\Component\Console\Command\Command;
