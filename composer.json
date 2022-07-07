@@ -31,7 +31,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"AvaiBookSports\\Bundle\\MigrationsMutlipleDatabase\\": "src/"
+			"LFaveur\\Bundle\\MigrationsMultipleDatabase\\": "src/"
 		}
 	}
 }
