@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace AvaiBookSports\Bundle\MigrationsMutlipleDatabase\DependencyInjection;
+namespace LFaveur\Bundle\MigrationsMutlipleDatabase\DependencyInjection;
 
 use Doctrine\Bundle\MigrationsBundle\DependencyInjection\DoctrineMigrationsExtension;
 use Doctrine\Migrations\Configuration\EntityManager\ExistingEntityManager;
