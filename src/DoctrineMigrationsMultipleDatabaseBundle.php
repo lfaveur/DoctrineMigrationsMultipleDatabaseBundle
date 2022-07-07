@@ -1,6 +1,6 @@
 <?php
 
-namespace AvaiBookSports\Bundle\MigrationsMultipleDatabase;
+namespace LFaveur\Bundle\MigrationsMultipleDatabase;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

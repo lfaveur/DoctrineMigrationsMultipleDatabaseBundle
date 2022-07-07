@@ -1,6 +1,6 @@
 <?php
 
-namespace AvaiBookSports\Bundle\MigrationsMutlipleDatabase\Command\Doctrine;
+namespace LFaveur\Bundle\MigrationsMutlipleDatabase\Command\Doctrine;
 
 use Symfony\Component\Console\Input\ArrayInput;
 use Symfony\Component\Console\Input\InputArgument;
