@@ -1,5 +1,5 @@
 {
-	"name": "avaibooksports/doctrine-migrations-multiple-database-bundle",
+	"name": "lfaveur/doctrine-migrations-multiple-database-bundle",
 	"type": "symfony-bundle",
 	"description": "Symfony DoctrineMigrationsMultipleDatabaseBundle",
 	"keywords": ["DBAL", "Migrations", "Schema", "Multiple databases"],
