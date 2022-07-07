@@ -31,7 +31,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"LFaveur\\Bundle\\MigrationsMultipleDatabase\\": "src/"
+			"Lfafa\\Bundle\\MigrationsMultipleDatabase\\": "src/"
 		}
 	}
 }

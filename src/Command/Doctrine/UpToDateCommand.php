@@ -1,6 +1,6 @@
 <?php
 
-namespace LFaveur\Bundle\MigrationsMutlipleDatabase\Command\Doctrine;
+namespace Lfafa\Bundle\MigrationsMutlipleDatabase\Command\Doctrine;
 
 use Symfony\Component\Console\Input\ArrayInput;
 use Symfony\Component\Console\Input\InputInterface;

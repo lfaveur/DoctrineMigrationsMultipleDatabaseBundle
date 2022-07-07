@@ -1,6 +1,6 @@
 <?php
 
-namespace LFaveur\Bundle\MigrationsMultipleDatabase;
+namespace Lfafa\Bundle\MigrationsMultipleDatabase;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
